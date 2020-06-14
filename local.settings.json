@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "TEAM_ID": "XSS2Q29FAN",
+    "SERVICE_ID": "com.randonautica.app.signinwithapple",
+    "BUNDLE_ID": "com.randonautica.app",
+    "KEY_ID": "3RT94A7L9C",
+    "KEY_CONTENTS": "-----BEGIN PRIVATE KEY-----MIGTAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBHkwdwIBAQQg5EN9ZU2QtQ1FdQfThC8Rvrrmb858rBuhHscZViSoF6KgCgYIKoZIzj0DAQehRANCAATdpE8iHVfUtUsvAJ46jO90dI57m7sw+Yvk/qjDV/QE4fsiYhgx4x6mvreoIoEA76itD+bR7QPw+nsJEFsRmSIz-----END PRIVATE KEY-----",
+    "ANDROID_PACKAGE_IDENTIFIER": "com.randonautica.app"
+  }
+}
